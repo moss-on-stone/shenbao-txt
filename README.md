@@ -2,7 +2,8 @@
 # Raw text of 申報
 
 Just a few missing years. 
-Missing months and days.
+Missing months and days in the file titles.
+Does not include advertisement pages, apparently.
 
 You can access the individual files in the 'txt' folder here. You can download everything by cloning this repository or via the below zip link. The raw text files are, altogether, about **2.7GB** in size when decompressed:
 
